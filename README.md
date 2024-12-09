@@ -7,6 +7,8 @@
 
 **Any future plans?** I want for this code to be user friendly. I want to be able to make changes to the employee list as needed and possibly account for holidays, requests off, add managers, and overnight employees. I will let my manager play with the code to give me any feedback since this is made to make her job easier. 
 
-mathmodeling_project.py (this code has both the code for the employee information and the schedule generator)
-employees.py (this code seperates the previous code and only includes the portion for taking in employee information)
-schedule_genorator2.py (this code is the second portion of the cod
+**mathmodeling_project.py** (this code has both the code for the employee information and the schedule generator)
+
+**employees.py** (this code seperates the previous code and only includes the portion for taking in employee information)
+
+**schedule_genorator2.py** (this code is the second portion of the code which generates the schedule)
